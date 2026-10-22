@@ -43,6 +43,7 @@ Through this project, I also wanted to learn how to use coding to create music a
 
 Screenshots of my TunePad code, and animation.
 <img width="1919" height="870" alt="QQ_1792649292351" src="https://github.com/user-attachments/assets/c341f293-faa0-4a4f-b6b8-622343e8359f" />
+<img width="1919" height="867" alt="QQ_1792649559699" src="https://github.com/user-attachments/assets/aa7dde73-925e-4af2-bd7f-4b19316d4cb0" />
 
 
 ## Setup
@@ -83,3 +84,4 @@ I used TunePad to explore how coding can be used to create music.
 ## Contact
 
 Created by Kylar for the Creative Coding project at UTS.
+Student Email: Ruixi.Guo@student.uts.edu.au
