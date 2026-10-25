@@ -88,5 +88,5 @@ I used TunePad to explore how coding can be used to create music.
 
 ## Contact
 
-Created by Kylar for the Creative Coding project at UTS.
+Created by Kylar.
 Student Email: Ruixi.Guo@student.uts.edu.au
