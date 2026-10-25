@@ -25,6 +25,8 @@ The idea of my project is to create background music for a magical forest in an 
 
 Through this project, I also wanted to learn how to use coding to create music and experiment with different sounds.
 
+The main focus of this project is the music I created using TunePad. I also made a short animation to make the presentation more interesting and help people imagine the forest adventure. The animation is only a visual addition, while the TunePad music is the main part of my project.(All the characters and animations were drawn by myself personally, without using AI to generate them.)
+
 ## Technologies Used
 
 - TunePad – for coding and creating music
@@ -44,6 +46,9 @@ Through this project, I also wanted to learn how to use coding to create music a
 Screenshots of my TunePad code, and animation.
 <img width="1919" height="870" alt="QQ_1792649292351" src="https://github.com/user-attachments/assets/c341f293-faa0-4a4f-b6b8-622343e8359f" />
 <img width="1919" height="867" alt="QQ_1792649559699" src="https://github.com/user-attachments/assets/aa7dde73-925e-4af2-bd7f-4b19316d4cb0" />
+<img width="1090" height="690" alt="25d5c1e2e8dea74d563d57b7209806df" src="https://github.com/user-attachments/assets/51577a74-5590-4117-9e93-3ab3bbfe8155" />
+<img width="1090" height="690" alt="d448fe1c24491638526c23942b031771" src="https://github.com/user-attachments/assets/2e3f096e-6c8f-4368-95dd-11f3a270c247" />
+
 
 
 ## Setup
